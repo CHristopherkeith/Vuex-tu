@@ -6,6 +6,8 @@
 </template>
 
 <script>
+import store from './vuex/store'
+
 export default {
   name: 'app'
 }
